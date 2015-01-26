@@ -1,0 +1,52 @@
+D:\Pisane\C#\Kurve\Kurve\bin\Debug\Kurve.exe.config
+D:\Pisane\C#\Kurve\Kurve\bin\Debug\Kurve.exe
+D:\Pisane\C#\Kurve\Kurve\bin\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\MainWindow.baml
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\App.g.cs
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve_MarkupCompile.cache
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve.g.resources
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve.Properties.Resources.resources
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve.csproj.GenerateResource.Cache
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve.exe
+D:\Pisane\C#\Kurve\Kurve\obj\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve — kopia\Kurve\bin\Debug\Kurve.exe.config
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve.exe
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve — kopia\Kurve\bin\Debug\Kurve.exe
+D:\Pisane\C#\Kurve — kopia\Kurve\bin\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\MainWindow.baml
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\App.g.cs
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve_MarkupCompile.cache
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve.g.resources
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve.Properties.Resources.resources
+D:\Pisane\C#\Kurve — kopia\Kurve\obj\Debug\Kurve.csproj.GenerateResource.Cache
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\bin\Debug\Kurve.exe.config
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve.exe
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\bin\Debug\Kurve.exe
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\bin\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\MainWindow.baml
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\App.g.cs
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve_MarkupCompile.cache
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve.g.resources
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve.Properties.Resources.resources
+D:\Pisane\C#\Kurve — kopia — kopia\Kurve\obj\Debug\Kurve.csproj.GenerateResource.Cache
+D:\Pisane\C#\Kurve — polyline\Kurve\bin\Debug\Kurve.exe.config
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve.exe
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve.pdb
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\MainWindow.baml
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\App.g.cs
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve_MarkupCompile.cache
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve.g.resources
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve.Properties.Resources.resources
+D:\Pisane\C#\Kurve — polyline\Kurve\obj\Debug\Kurve.csproj.GenerateResource.Cache
+D:\Pisane\C#\Kurve — polyline\Kurve\bin\Debug\Kurve.exe
+D:\Pisane\C#\Kurve — polyline\Kurve\bin\Debug\Kurve.pdb
